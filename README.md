@@ -22,4 +22,5 @@ Install dependencies with:
 
 ```bash
 pip install numpy scikit-learn joblib
+python predict.py
 ```
